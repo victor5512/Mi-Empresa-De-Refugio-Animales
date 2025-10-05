@@ -14,7 +14,7 @@ Puedes usar este repositorio como tu punto de despliegue de tu proyecto backend.
 * Asegúrate de clonar este repositorio a tu cuenta usando el botón **`Fork`**.
     
     ![fork](./imagenes/fork.png)
-    * Puedes renombrar el repositorio a lo que sea que se ajuste con tu proyecto.
+    * Recuerda renombrar el repositorio a lo que sea que se ajuste con tu proyecto.
 * Presiona el botón **`<> Code`** y luego haz click en la sección **`Codespaces`**
 
     ![codespaces](./imagenes/codespaces.png)
